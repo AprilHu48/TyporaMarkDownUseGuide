@@ -32,19 +32,19 @@ $$
 
 3、希腊字母
 
-|  名称   |   大写   |    Tex     |    小写    |  Tex   |
-| :-----: | :------: | :--------: | :--------: | :----: |
-|  alpha  |   $A$    |   `$A$`    |  $\alpha$  | \alpha |
-|  beta   |   $B$    |   `$B$`    |  $\beta$   | \beta  |
-|  gamma  | $\Gamma$ | `$\Gamma$` |  $\gamma$  |        |
-|  delta  | $\Delta$ | `$\Delta$` |  $\delta$  |        |
-| epsilon |   $E$    |   `$E$`    | $\epsilon$ |        |
-|  zeta   |   $Z$    |   `$Z$`    |  $\zeta$   |        |
-|   eta   |   $H$    |   `$H$`    |   $\eta$   |        |
-|  theta  | $\Theta$ | `$\Theta$` |  $\theta$  |        |
-|  iota   |   $I$    |   `$I$`    |  $\iota$   |        |
-|  kappa  |   $K$    |   `$K$`    |  $\kappa$  |        |
-|         |          |            |            |        |
+|  名称   |   大写   | 变形大写  |    小写    | 变形小写  |
+| :-----: | :------: | :-------: | :--------: | :-------: |
+|  alpha  |   $A$    |           |  $\alpha$  |  \alpha   |
+|  beta   |   $B$    |           |  $\beta$   |   \beta   |
+|  gamma  | $\Gamma$ |           |  $\gamma$  |           |
+|  delta  | $\Delta$ |           |  $\delta$  |           |
+| epsilon |   $E$    |           | $\epsilon$ |           |
+|  zeta   |   $Z$    |           |  $\zeta$   |           |
+|   eta   |   $H$    |           |   $\eta$   |           |
+|  theta  | $\Theta$ |           |  $\theta$  |           |
+|  iota   |   $I$    |           |  $\iota$   |           |
+|  kappa  |   $K$    |           |  $\kappa$  |           |
+|   phi   |  $\Phi$  | $\varPhi$ |   $\phi$   | $\varphi$ |
 
 ![xila](./assets/xila.png)
 
